@@ -3,7 +3,7 @@
 🎓 A final year Computer Engineering student  
 💻 Front-end developer in progress  
 🎨 Passionate about UI design and art  
-🌱 Currently learning: JavaScript, React  
+🌱 Currently learning: JavaScript, React.js, Next.js 
 📍 Based in Iran
 
 ---
