@@ -1,81 +1,73 @@
 # Hi, I'm Ania 👋
 
-### Front-End Developer | React & Next.js
+### Front-End Developer | React • Next.js • TypeScript
 
-I'm a Front-End Developer with **15+ months of professional experience**, focused on building clean, responsive, and user-friendly web applications.
+I'm a Front-End Developer with **15+ months of professional experience**, building responsive, maintainable, and user-focused web applications.
 
-I enjoy turning designs and ideas into polished interfaces while keeping the codebase structured, reusable, and maintainable.
-
-Currently, I work primarily with **React and Next.js**, and I'm continuously improving my knowledge of modern front-end architecture, performance, UI/UX, and scalable component design.
+I work primarily with **React and Next.js**, turning designs and product ideas into polished interfaces with a strong focus on clean implementation, reusable components, responsiveness, and user experience.
 
 ---
 
 ## 👩‍💻 About Me
 
-* 💼 Front-End Developer with 15+ months of professional experience
-* ⚛️ Building applications with **React** and **Next.js**
-* 🎨 Strong interest in **UI implementation and user experience**
-* 📱 Experienced in building **responsive interfaces**
-* 🧩 Focused on reusable and maintainable component architecture
-* 🔍 Detail-oriented when translating designs into production interfaces
-* 🌱 Continuously improving my knowledge of modern front-end development
+* 💼 Front-End Developer with professional experience in production projects
+* ⚛️ Working with **React, Next.js, JavaScript, and TypeScript**
+* 🎨 Strong focus on **UI implementation and user experience**
+* 📱 Experienced in building **responsive, cross-device interfaces**
+* 🧩 Interested in clean, reusable, and maintainable component architecture
+* 🔍 Detail-oriented when translating designs into functional interfaces
+* 🌱 Continuously improving my knowledge of modern front-end architecture and best practices
 
 ---
 
 ## 🛠 Tech Stack
 
 **Frontend**
-
 React • Next.js • JavaScript • TypeScript
 
 **Styling**
-
 CSS • Tailwind CSS • Responsive Design
 
 **Development**
-
 Git • GitHub • ESLint • REST APIs • npm
 
-**Concepts**
-
-Component-Based Architecture • Responsive UI • Reusable Components • UI/UX Implementation • Performance Optimization
+**Core Skills**
+Component-Based Architecture • Reusable Components • Responsive UI • UI/UX Implementation • Performance Optimization
 
 ---
 
-## 🚀 What I Enjoy Building
+## 🚀 What I Like Building
 
-I particularly enjoy working on:
+I enjoy working on:
 
 * Modern web applications
 * Responsive websites
 * E-commerce interfaces
 * Interactive landing pages
-* Design-heavy user interfaces
+* Design-focused interfaces
 * Reusable component systems
 * Smooth UI interactions and animations
 
-I care about the details that turn an interface from something that simply **works** into something that also **feels good to use**.
+I care about the details that make an interface not only **work well**, but also **feel polished and intuitive to use**.
 
 ---
 
-## 📚 Currently Improving
+## 📚 Currently Exploring
 
-I'm currently deepening my knowledge of:
+I'm currently expanding my knowledge in:
 
 * Advanced React & Next.js patterns
 * TypeScript
 * Front-end architecture
 * Web performance
 * Accessibility
+* Design systems
 * Advanced UI interactions
-* Building scalable design systems
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in learning from other developers, contributing to interesting projects, and connecting with people working on meaningful digital products.
+I'm always open to connecting with other developers, learning from new projects, and contributing to meaningful digital products.
 
-**LinkedIn:** [https://www.linkedin.com/in/ania-toghranegar-4a7098343?utm_source=share_via&utm_content=profile&utm_medium=member_ios]
-**Email:** [aniatnegar@gmail.com]
-
+[LinkedIn](https://www.linkedin.com/in/ania-toghranegar-4a7098343) • [Email](mailto:aniatnegar@gmail.com)
